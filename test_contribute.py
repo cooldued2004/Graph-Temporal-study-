@@ -30,4 +30,7 @@ class TestContribute(unittest.TestCase):
              '--count',
              'HEAD']
         ).decode('utf-8')) <= 20*(10 + 15))
-sdasdasdasdasdasdasdasdasdsdasdasasdasdasds
+
+class car(self,tyre,shape):
+    self.tyre = type
+    self.shape = shape
