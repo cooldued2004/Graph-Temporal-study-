@@ -44,4 +44,7 @@ class mahindra(car):
         self.price = price
     def display(self):
         print(self.tyre, self.shape, self.color, self.price)
-        
+
+car1 = mahindra("big","suv","jet_black","40 lakhs")
+car1.display()
+
