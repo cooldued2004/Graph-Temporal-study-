@@ -42,4 +42,6 @@ class mahindra(car):
         super().__init__(trye, shape)
         self.color = color
         self.price = price
+    def display(self):
+        print(self.tyre, self.shape, self.color, self.price)
         
