@@ -1,4 +1,6 @@
 import unittest
+
+from sympy import shape
 import contribute
 from subprocess import check_output
 
@@ -35,4 +37,9 @@ class car(self,tyre,shape):
     self.tyre = typesas
     self.shape = shape
 
-class 
+class mahindra(car):
+    def __init__(self, trye, shape, color, price):
+        super().__init__(trye, shape)
+        self.color = color
+        self.price = price
+        
