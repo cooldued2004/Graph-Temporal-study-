@@ -33,9 +33,10 @@ class TestContribute(unittest.TestCase):
              'HEAD']
         ).decode('utf-8')) <= 20*(10 + 15))
 
-class car(self,tyre,shape):
-    self.tyre = typesas
-    self.shape = shape
+class car:
+    def __init__(self, tyre, shape):
+        self.tyre = tyre
+        self.shape = shape
 
 class mahindra(car):
     def __init__(self, trye, shape, color, price):
