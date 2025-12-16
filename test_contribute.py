@@ -48,4 +48,3 @@ class mahindra(car):
 
 car1 = mahindra("big","suv","jet_black","40 lakhs")
 car1.display()
-sdsdsd
