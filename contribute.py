@@ -1,1 +1,4 @@
-class sddfsdsdsddsdfsdfsdffsdsdfsdfsffsdfsdfsdfsdffssdsdsdsdsdsdfsddfdfsddfdfsdfssdsdfsdfssdfssdssdfsfsesdfsdsdfddfsdfsdfsdsdfsfsdfsdfsdsdsfsdfdfdsdsfsdfsdfsdfdfsdfsdfdfsdfsdfsdfwewerwerwerwerwerwewerewrewrerwr
+class sog :
+    def dibbo(self):
+        print("hellp")
+        xcvbvbvbxcvbfgsdfgsdfgsdfgsdfgsreertwrtwetetwertwetertdfgsdfgsgsdfgsdfgdfgdfgsdfgsdfgsfgsdfgdvbnvnbncb
